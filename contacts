@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html lang="en">
+ <head>
+   <meta charset="utf-8">
+    <title>Web Project </title>
+    <link rel="stylesheet" href="contacts.css">
+  </head>
+  <header> 
+    <a href="VOLTA website.html"><img class="logo" src="C:\Users\Omistaja\OneDrive\Työpöytä\VOLTA\images\logo.jpg" alt="logo"></a>
+    <nav>
+      <ul class="nav_head">
+        <li><a href="VOLTA website.html">Main Page</a></li>
+        <li><a href="help.html">Help</a></li>
+      </ul>
+    </nav>
+  <a class="cta" href="contacts.html"><button>Contact</button></a>
+   </header>
+   <body>
+    <div class="body_guide">
+      <br> <br> <br>
+      <h1>Contact us!</h1>
+      <br> <br> <br>
+        <ul class="ad_guide">
+          <h2>Use Volta to advertise your product!</h2>
+          <br>
+          <p>Have your advertisements displayed at a Volta station! <br> <br>
+          Contact us for more information on advertising with Volta!</p>   
+          <h3>Display your advertisements on this screen!</h3>       
+          <img src="C:\Users\Omistaja\OneDrive\Työpöytä\VOLTA\images\largestationside.jpg" alt="large_station">
+        </ul>
+      <ul class="contact_info">
+        <p>Our contacts: </p>
+        <br>
+        <li>chesneaumathias@gmail.com</li> 
+        <br>
+        <li>leotanaka83@gmail.com</li>
+        <br> 
+        <li>vk23ik@gmail.com</li>
+        <br> 
+      </ul>
+      <div class="list_curve"></div>
+    </div>
+    <div class="curve"></div>
+   </body>
+   <footer> 
+    <nav>
+      <ul class="nav_foot">
+        <a href="VOLTA website.html"><img class="logo" src="C:\Users\Omistaja\OneDrive\Työpöytä\VOLTA\images\logo.jpg" alt="logo"></a>
+        <li><a id="contacts" href="#">Updates coming soon!</a></li>
+      </ul>
+    </nav>
+  </footer>
+ </html>
