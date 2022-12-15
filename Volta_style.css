@@ -208,6 +208,11 @@ h1 {
    color:cadetblue;
 }
 
+.nav_foot #validation {
+ height:100px;
+ weight:100px;
+}
+
 .nav_foot img {
    height: 125px;
    width:205px;
