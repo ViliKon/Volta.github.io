@@ -139,7 +139,7 @@ header {
    width: 50%;
    height: 70%;
    background-color: white;
-   transform: translate(100.5%,-172%);
+   transform: translate(100.5%,-150%);
 }
 
 .curve::after {
@@ -150,7 +150,7 @@ header {
    width: 55%;
    height: 30%;
    background-color: rgb(23, 29, 79);
-   transform: translate(-3%,-351%);
+   transform: translate(-3%,-299%);
 }
 
 .nav_foot {
@@ -177,5 +177,5 @@ header {
  .nav_foot img {
     height: 125px;
     width:205px;
-    transform:translate(490%,2.5%);
+    transform:translate(510%,2.5%);
  }
