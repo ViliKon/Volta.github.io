@@ -107,7 +107,7 @@ h1 {
  .body_steps #station {
    width: 250px;
    height: 250px;
-   transform: translate(320%, 0%);
+   transform: translate(350%, 0%);
  }
 
  .body_steps #app {
