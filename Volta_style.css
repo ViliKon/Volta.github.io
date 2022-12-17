@@ -214,9 +214,3 @@ h1 {
     display:inline-block;
     transform:translate(10%,10%);
 }
-
-#foot_logo {
-   height: 125px;
-   width:205px;
-   transform:translate(100%,100%);
-}
