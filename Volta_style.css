@@ -211,6 +211,10 @@ h1 {
    color:cadetblue;
 }
 
+.validate {
+    display:inline-block;
+    transform:translate(10%,10%);
+
 .nav_foot img {
    height: 125px;
    width:205px;
