@@ -215,7 +215,8 @@ h1 {
     display:inline-block;
     transform:translate(10%,10%);
 
-.nav_foot img {
+.nav_foot #foot_logo {
    height: 125px;
    width:205px;
+   transform:translate(50%,50%);
 }
