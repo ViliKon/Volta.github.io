@@ -12,6 +12,9 @@ li, a, button {
     text-decoration: none;
 }
 
+body {
+   overflow-x: hidden;
+}
 
 header {
     display: flex;
