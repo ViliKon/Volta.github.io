@@ -214,6 +214,7 @@ h1 {
 .validate {
     display:inline-block;
     transform:translate(10%,10%);
+}
 
 .nav_foot #foot_logo {
    height: 125px;
