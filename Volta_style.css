@@ -145,7 +145,7 @@ h1 {
    width: 40%;
    height: 221%;
    background-color: rgb(10, 90, 156);
-   transform:translate(187.5%,12.85%);
+   transform:translate(189.5%,11.6%);
    z-index: +1;
 } 
 
@@ -176,7 +176,7 @@ h1 {
    width: 50%;
    height: 70%;
    background-color: white;
-   transform: translate(102%,-155%);
+   transform: translate(99.5%,-165%);
 }
 
 .curve::after {
@@ -187,7 +187,7 @@ h1 {
    width: 55%;
    height: 30%;
    background-color: rgb(23, 29, 79);
-   transform: translate(-3.2%,-300.5%);
+   transform: translate(-6%,-317%);
 }
 
  .nav_foot {
