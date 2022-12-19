@@ -145,7 +145,7 @@ h1 {
    width: 40%;
    height: 221%;
    background-color: rgb(10, 90, 156);
-   transform:translate(189.5%,11.6%);
+   transform:translate(189.5%,11.46%);
    z-index: +1;
 } 
 
@@ -173,7 +173,7 @@ h1 {
    display: block;
    position: absolute;
    border-radius: 100% 50%;
-   width: 50%;
+   width: 50.5%;
    height: 70%;
    background-color: white;
    transform: translate(99.5%,-165%);
@@ -184,7 +184,7 @@ h1 {
    display: block;
    position: absolute;
    border-radius: 100% 50%;
-   width: 55%;
+   width: 55.35%;
    height: 30%;
    background-color: rgb(23, 29, 79);
    transform: translate(-6%,-317%);
