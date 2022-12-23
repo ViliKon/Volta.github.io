@@ -131,7 +131,7 @@ h1 {
 }
 
  .list_curve {
-   position:static;
+   position:absolute;
    height: 506px;
    width:50%;
    bottom:0;
@@ -140,7 +140,7 @@ h1 {
 .list_curve::before {
    content: " ";
    display: block;
-   position: static;
+   position: absolute;
    border-radius: 100% 50%;
    width: 40%;
    height: 221%;
@@ -152,7 +152,7 @@ h1 {
 .list_curve::after {
    content: " ";
    display: block;
-   position: static;
+   position: absolute;
    border-radius: 100% 50%;
    width: 20%;
    height: 90%;
@@ -162,7 +162,7 @@ h1 {
 
 
 .curve { 
-   position:static;
+   position:absolute;
    height: 210px;
    width:100%;
    bottom:0;
@@ -171,7 +171,7 @@ h1 {
 .curve::before {
    content: " ";
    display: block;
-   position: static;
+   position: absolute;
    border-radius: 100% 50%;
    width: 50.5%;
    height: 70%;
@@ -182,7 +182,7 @@ h1 {
 .curve::after {
    content: " ";
    display: block;
-   position: static;
+   position: absolute;
    border-radius: 100% 50%;
    width: 55.35%;
    height: 30%;
